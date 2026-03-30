@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.dat
+*.bz2
+drivesense_shot_*.png
+.env
